@@ -9,7 +9,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🔥 TOKEN BOT — nhớ thay bằng token mới!!!
-TOKEN = "PASTE_TOKEN_MOI_VAO_DAY"
+TOKEN = "7596346317:AAGC9fhDW-iCDeFZW46pfMF3ydwOXO9KWqQ"
 
 # --- MENU TELEGRAM ---
 main_menu = ReplyKeyboardMarkup(
